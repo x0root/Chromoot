@@ -1,4 +1,5 @@
 # Chromoot
+![Chromoot Screenshot](images/img1.jpg)
 
 *Chrom(ium) + proot* — a real, full desktop build of **Chromium** running on
 Android via Termux + a minimal Alpine Linux **proot** environment. No root
