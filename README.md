@@ -72,7 +72,7 @@ the audio bridge in the correct order automatically.
 If sound isn't working, run option 4 first — it checks each layer of the
 audio path individually (PulseAudio versions, the TCP bridge, and a real
 handshake test from inside the proot environment) and tells you specifically
-which one failed, instead of a generic "no audio."
+which one failed
 
 ## Known limitations
 
