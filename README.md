@@ -124,7 +124,7 @@ which one failed, instead of a generic "no audio."
 
 ## License
 
-MIT (or your preference — add a LICENSE file before publishing).
+MIT
 
 ## Disclaimer
 
