@@ -3,7 +3,7 @@
 ![Chromoot Screenshot](images/img2.jpg)
 ![Chromoot Screenshot](images/img3.jpg)
 
-*Chrom(ium) + proot* — a real, full desktop build of **Chromium** running on Android via Termux and a minimal Alpine Linux **proot** environment. No root is required. It includes a working audio bridge and a resolution-aware launch script, both refined through real-device testing rather than theoretical assumptions.
+*Chrom(ium) + proot* — a real, full desktop build of **Chromium** running on Android via Termux and a minimal Alpine Linux **proot** environment. No root is required. It includes a working audio bridge and a resolution-aware launch script.
 
 This project came about due to the limitations of Chrome on Android. (Extensions, Devtools, etc) Since most existing solutions go for a full Linux distro installation just to get a browser, I wanted a more focused approach — a dedicated, Chromium-only setup that runs smoothly and efficiently right here on Termux.
 
