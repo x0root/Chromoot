@@ -41,13 +41,13 @@ work.
    **Unrestricted**. Android aggressively background-kills apps it doesn't
    recognize as active, and this is the single most common cause of the
    browser silently failing to launch after the first successful run.
-3. Copy `chromium.sh` into Termux and make it executable:
+3. Copy `chromoot.sh` into Termux and make it executable:
    ```
-   chmod +x chromium.sh
+   chmod +x chromoot.sh
    ```
 4. Run it:
    ```
-   ./chromium.sh
+   ./chromoot.sh
    ```
 
 ## Menu
